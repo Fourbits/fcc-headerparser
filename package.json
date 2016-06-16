@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "https://www.freecodecamp.com/challenges/request-header-parser-microservice",
   "main": "server.js",
-  "repository": "",
+  "repository": "https://github.com/Fourbits/fcc-headerparser",
   "author": "fourbits",
   "dependencies": {
     "express": "^3.21.2"
